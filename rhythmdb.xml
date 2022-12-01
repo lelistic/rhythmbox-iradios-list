@@ -1,0 +1,1390 @@
+<?xml version="1.0" standalone="yes"?>
+<rhythmdb version="2.0">
+<entry type="iradio">
+    <title>Radio BOB! Live</title>
+    <genre>Live</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-livemusic/mp3-192</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484266202</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR 2 Soundcheck Live</title>
+    <genre>Live</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop15.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1483061764</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>BBC Radio 4</title>
+    <genre>UK</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p</location>
+    <play-count>2</play-count>
+    <last-played>1482882853</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>BBC Radio 1</title>
+    <genre>UK</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p</location>
+    <play-count>2</play-count>
+    <last-played>1482889888</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>BBC World Service</title>
+    <genre>UK</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk</location>
+    <play-count>1</play-count>
+    <last-played>1482883018</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>BBC Radio 5 live</title>
+    <genre>UK</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p</location>
+    <play-count>1</play-count>
+    <last-played>1482882596</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>BBC Radio 2</title>
+    <genre>UK</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p</location>
+    <play-count>1</play-count>
+    <last-played>1482882470</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>BBC Radio 6</title>
+    <genre>UK</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p</location>
+    <play-count>2</play-count>
+    <last-played>1482883027</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>BBC Radio 3</title>
+    <genre>UK</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p</location>
+    <play-count>2</play-count>
+    <last-played>1482883630</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>BBC Radio Asian Network</title>
+    <genre>UK</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p</location>
+    <play-count>2</play-count>
+    <last-played>1482883506</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R.SH 80er</title>
+    <genre>Oldies</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.rsh.de/rsh-80er/mp3-192</location>
+    <play-count>1</play-count>
+    <last-played>1457278559</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>DRadio Wissen</title>
+    <genre>Info</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://dradio_mp3_dwissen_m.akacast.akamaistream.net/7/728/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dwissen_m</location>
+    <rating>4</rating>
+    <play-count>5</play-count>
+    <last-played>1483062281</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Deutschlandfunk</title>
+    <genre>Info</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.deutschlandradio.de/streaming/dlf.m3u</location>
+    <rating>4</rating>
+    <play-count>1</play-count>
+    <last-played>1482599081</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR Info Spezial</title>
+    <genre>Info</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_spezial.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1457276712</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR Info SH</title>
+    <genre>Info</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_sh.m3u</location>
+    <play-count>3</play-count>
+    <last-played>1482882715</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Punk</title>
+    <genre>Punk</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-punk/mp3-192</location>
+    <rating>4</rating>
+    <play-count>1</play-count>
+    <last-played>1484266011</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Christmas-Rock</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-christmas/mp3-192</location>
+    <rating>4</rating>
+    <play-count>3</play-count>
+    <last-played>1484261634</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Alternative Rock</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-alternative/mp3-192</location>
+    <rating>4</rating>
+    <play-count>1</play-count>
+    <last-played>1457277319</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! 90er Rock</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-90srock/mp3-192</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484264715</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>delta radio unplugged</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.deltaradio.de/delta-unplugged/mp3-192/streams.deltaradio.de/play.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1457277937</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>CRIK FM &#x2013; The Lynx Classic Rock</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.lynxradionetwork.com/crikclassic.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1483057057</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR 2 Rock</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop21.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1483061808</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>delta radio Foehnfrisur</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.deltaradio.de/delta-foehnfrisur/mp3-192/streams.deltaradio.de/play.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1457277979</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! AC/DC-Collection</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-acdc/mp3-192</location>
+    <rating>4</rating>
+    <play-count>1</play-count>
+    <last-played>1457277436</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Kuschelrock</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-kuschelrock/mp3-192</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484266263</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! SH</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-shlive/mp3-192</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484263590</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Festivalsommer</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-festival/mp3-192</location>
+    <rating>4</rating>
+    <play-count>1</play-count>
+    <last-played>1484264107</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>delta radio Grunge</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.deltaradio.de/delta-grunge/mp3-192/streams.deltaradio.de/play.m3u</location>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! 80er Rock</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-80srock/mp3-192</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484264633</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Deutsch-Rock</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-deutsch/mp3-192/</location>
+    <rating>3</rating>
+    <play-count>1</play-count>
+    <last-played>1457277529</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Classic Rock</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-classicrock/mp3-128</location>
+    <rating>5</rating>
+    <play-count>3</play-count>
+    <last-played>1482886425</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB!</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-live/mp3-192</location>
+    <rating>5</rating>
+    <play-count>2</play-count>
+    <last-played>1484261683</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>delta radio Alternative Max</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.deltaradio.de/delta-alternative/mp3-192/streams.deltaradio.de/play.m3u</location>
+    <play-count>2</play-count>
+    <last-played>1482882581</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Queen</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/queen/mp3-192</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484266357</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>delta radio Indie</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.deltaradio.de/delta-indie/mp3-192/streams.deltaradio.de/play.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1457277953</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>delta radio Rock/Pop reloaded</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.deltaradio.de/delta-poprock/mp3-192/streams.deltaradio.de/play.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1457277913</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Best of Rock</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-bestofrock/mp3-192</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484264552</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Rock-Hits</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-rockhits/mp3-192</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484264462</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Munich&#x2019;s Hardest Hits</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.munichshardesthits.com/ondem/mp3_high.pls</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1483060272</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>BellyUp4Blues &#x2013; The Only Ass Kicking Blues Rocker</title>
+    <genre>Blues</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://player.streamlicensing.com/external.php?h=72.13.82.82&amp;p=5100</location>
+    <play-count>1</play-count>
+    <last-played>1483058566</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Blues</title>
+    <genre>Blues</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-blues/mp3-192</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484266123</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>CRIK FM &#x2013; The Lynx Super 70s</title>
+    <genre>70s</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.lynxradionetwork.com/crikisdn70s.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1483056950</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR Info Play Jazz</title>
+    <genre>Jazz</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop31.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1483061566</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>EuropaRadioJazz</title>
+    <genre>Jazz</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://5.135.178.219:8002/stream</location>
+    <play-count>3</play-count>
+    <last-played>1483062774</last-played>
+    <bitrate>320</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR Info Jazz-Nacht</title>
+    <genre>Jazz</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop19.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1483061517</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>KUAZ &#x2013; NPR 89.1</title>
+    <genre>Jazz</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streaming.azpm.org/kuaz192.mp3.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1483060106</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>CRIK FM &#x2013; The Lynx Retro 80s</title>
+    <genre>80s</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.lynxradionetwork.com/crikretroisdn.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1483057032</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio NORA 80er</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radionora.de/nora-80er/mp3-192</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1457277732</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>KielFM - 101,2 Mhz</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio.oksh.de:8000/kielfm.mp3</location>
+    <rating>5</rating>
+    <play-count>5</play-count>
+    <last-played>1483061978</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Singer &amp; Songwriter</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-singersong/mp3-192</location>
+    <rating>3</rating>
+    <play-count>2</play-count>
+    <last-played>1484265303</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>N-Joy</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/n-joy.m3u</location>
+    <rating>3</rating>
+    <play-count>1</play-count>
+    <last-played>1457276645</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR 1 Welle Nord Kiel</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1457276968</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Fr&#xE9;quence 3 HD</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hd.stream.frequence3.net/frequence3-256.mp3.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1483062511</last-played>
+    <bitrate>255</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R.SH Top-40-Charts</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.rsh.de/rsh-nordparade/mp3-192</location>
+    <play-count>1</play-count>
+    <last-played>1457278462</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR Blue</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndrblue.m3u</location>
+    <rating>4</rating>
+    <play-count>6</play-count>
+    <last-played>1457276668</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>CRIK FM &#x2013; The Lynx Classic Hits</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.lynxradionetwork.com/crikisdn.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1483056895</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Westk&#xFC;ste FM</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio.oksh.de:8000/westkuestefm.mp3</location>
+    <rating>4</rating>
+    <play-count>2</play-count>
+    <last-played>1459462115</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR 1 Niedersachsen Hannover</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1457277047</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR 2 SH</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndr2_sh.m3u</location>
+    <rating>3</rating>
+    <play-count>3</play-count>
+    <last-played>1483061725</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R.SH Mitmann-Mix</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.rsh.de/rsh-mittmannmix/mp3-192</location>
+    <play-count>1</play-count>
+    <last-played>1457278491</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio NORA</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radionora.de/nora-live/mp3-192</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1457277586</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio NORA Oldies</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radionora.de/nora-oldies/mp3-192</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1457277636</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR 2 Easy Sounds</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop23.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1483061884</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R.SH</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.rsh.de/rsh-live/mp3-192</location>
+    <play-count>1</play-count>
+    <last-played>1457278407</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR 1 Welle Nord Heide</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord_hei.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1457276934</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>G&#xE9;n&#xE9;ration FM</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hd.stream.frequence3.net/generationfm-128.mp3.m3u</location>
+    <play-count>2</play-count>
+    <last-played>1483062765</last-played>
+    <bitrate>160</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>CRIK FM &#x2013; The Lynx Disco Classics</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.lynxradionetwork.com/crikdiscoisdn.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1483057117</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R.SH auf Sylt</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.rsh.de/rsh-sylt/mp3-192</location>
+    <play-count>1</play-count>
+    <last-played>1457278440</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR 90,3</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndr903.m3u</location>
+    <rating>5</rating>
+    <play-count>2</play-count>
+    <last-played>1482886351</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR 1 Radio MV Schwerin</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndr1radiomv.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1457277098</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Metal</title>
+    <genre>Metal</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-metal/mp3-192</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484264844</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Eisen-Workout</title>
+    <genre>Metal</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-ironworkout/mp3-192</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484265819</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Harte Saite</title>
+    <genre>Metal</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-hartesaite/mp3-192</location>
+    <rating>4</rating>
+    <play-count>1</play-count>
+    <last-played>1457277358</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>MDR Kultur</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://avw.mdr.de/livestreams/mdr_kultur_live_128.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484268037</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR Kultur</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndrkultur.m3u</location>
+    <rating>5</rating>
+    <play-count>3</play-count>
+    <last-played>1482599093</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Organlive</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>https://www.organlive.com/organlive_320.m3u</location>
+    <rating>5</rating>
+    <play-count>2</play-count>
+    <last-played>1484266914</last-played>
+    <bitrate>320</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>MDR Kultur Klassik im Konzert</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://avw.mdr.de/livestreams/mdr_kultur_klassik_128.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484268206</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Klassik-Radio</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.klassikradio.de/live/mp3-128</location>
+    <rating>4</rating>
+    <play-count>1</play-count>
+    <last-played>1482599381</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Deutschlandradio Kultur</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://dradio_mp3_dkultur_m.akacast.akamaistream.net/7/530/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dkultur_m</location>
+    <rating>5</rating>
+    <play-count>2</play-count>
+    <last-played>1482599168</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>SWR 2</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mp3-live.swr.de/swr2_m.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484267846</last-played>
+    <bitrate>256</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR Kultur Belcanto</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop2.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1483061455</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Classic FM</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://media-ice.musicradio.com/ClassicFMMP3</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1482893179</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WDR 3</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://wdr-3-320.akacast.akamaistream.net/7/827/119437/v1/gnl.akacast.akamaistream.net/wdr-3-320</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484267770</last-played>
+    <bitrate>320</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Classique</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1482892684</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR Kultur Oper in einer Stunde</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop4.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1483061420</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>BR-Klassik</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.br.de/br-klassik_2.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484267516</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>MDR Klassik</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://avw.mdr.de/livestreams/mdr_klassik_live_128.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484268120</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>rbb Kulturradio</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://kulturradio.de/livemp3</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484267269</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>KUAT &#x2013; Classical 90.5</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streaming.azpm.org/kuat192.mp3.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1483060215</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>MDR Kultur Figarino</title>
+    <genre>Klassik</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://avw.mdr.de/livestreams/mdr_kultur_figarino_128.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1484268263</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Raggakings Radio</title>
+    <genre>Reggae</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.raggakings.net/listen.m3u</location>
+    <rating>5</rating>
+    <play-count>1</play-count>
+    <last-played>1483060364</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>AmysFM</title>
+    <genre>Funk</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ns336770.ip-5-39-71.eu:2199/tunein/amysfm.pls</location>
+    <play-count>1</play-count>
+    <last-played>1483060534</last-played>
+    <bitrate>320</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>NDR 2 Soul</title>
+    <genre>Soul</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop22.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1483061839</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>MDR Kultur Folk</title>
+    <genre>Folk</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://avw.mdr.de/livestreams/mdr_kultur_folk_128.m3u</location>
+    <rating>4</rating>
+    <play-count>1</play-count>
+    <last-played>1484268287</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio BOB! Grunge</title>
+    <genre>Grunge</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streams.radiobob.de/bob-grunge/mp3-192</location>
+    <rating>4</rating>
+    <play-count>1</play-count>
+    <last-played>1484265920</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Kink - No Alternative</title>
+    <genre>Alternative</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3</location>
+    <play-count>5</play-count>
+    <last-played>1668692513</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Studio Brussel, Belgium</title>
+    <genre>Alternative</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://icecast.vrtcdn.be/stubru-high.mp3</location>
+    <play-count>2</play-count>
+    <last-played>1634709655</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>StartFM - 94.2MHz, Vilnius University, Lithuania</title>
+    <genre>Underground</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://eteris.startfm.lt/startfm.ogg</location>
+    <play-count>10</play-count>
+    <last-played>1668692365</last-played>
+    <bitrate>64</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - Tronic Lounge</title>
+    <genre>House</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/tronic.ogg</location>
+    <play-count>11</play-count>
+    <last-played>1634710149</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Paradise (High Quality)</title>
+    <genre>Eclectic</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream-dc1.radioparadise.com/rp_192m.ogg</location>
+    <play-count>7</play-count>
+    <last-played>1669551499</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - Dream Factory</title>
+    <genre>Ambient</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/ambient.ogg</location>
+    <play-count>10</play-count>
+    <last-played>1634709577</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>wbur.org - Boston's NPR news source</title>
+    <genre>News</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://audio.wbur.org/stream/live_ogg.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WKNC 88.1 FM (NC State) HD-1</title>
+    <genre>Music</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://sc8.streammystation.com:7430/stream</location>
+    <play-count>9</play-count>
+    <last-played>1634710219</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WSUM 91.7 FM (University of Wisconsin)</title>
+    <genre>College Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.studio.wsum.wisc.edu/wsum128</location>
+    <play-count>2</play-count>
+    <last-played>1669551578</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WUVT-FM 90.7 (Virginia Tech)</title>
+    <genre>College Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>https://stream.wuvt.vt.edu/wuvt.ogg</location>
+    <play-count>1</play-count>
+    <last-played>1632376086</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - I.D.M. Tranceponder</title>
+    <genre>Trance</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/trance.ogg</location>
+    <play-count>11</play-count>
+    <last-played>1668692453</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/usuario/Music/rlax.mp4</location>
+    <mtime>1637727877</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/usuario/Music/EMOTION_VC.mp4</location>
+    <mtime>1632385156</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/usuario/Music/flashdance.mp4</location>
+    <mtime>1634823937</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/usuario/Music/EMOTION_VCSTORIES.mp4</location>
+    <mtime>1632384159</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/usuario/Music/QUEEN.mp4</location>
+    <mtime>1632374221</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/usuario/Music/FLASH_VC.mp4</location>
+    <mtime>1632384092</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+</rhythmdb>
